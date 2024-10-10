@@ -1,0 +1,7 @@
+Django>=4.0
+psycopg>=3.0
+Pillow>=9.0
+celery>=5.0
+redis>=4.0
+djangorestframework>=3.12
+requests
